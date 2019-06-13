@@ -12,7 +12,7 @@
   <groupId>ch1.bee.sample</groupId>
   <artifactId>ch1-helloworld</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>helloworld</name>
+  <name>ch1-helloworld</name>
   <description>Demo project for Spring Boot</description>
 
   <properties>
